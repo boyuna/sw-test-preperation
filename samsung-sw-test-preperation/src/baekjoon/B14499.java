@@ -1,4 +1,4 @@
-package competency;
+package baekjoon;
 import java.io.*;
 import java.util.*;
 public class B14499 {
